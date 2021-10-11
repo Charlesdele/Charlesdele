@@ -50,6 +50,7 @@
     <img src="https://img.icons8.com/fluency/48/000000/microsoft-office-2019.png"/>
     <img src="https://img.icons8.com/fluency/48/000000/spyder-ide.png"/>
     <img src="https://img.icons8.com/color/48/000000/oracle-logo.png"/>
+    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 </p>
 
 <br/>
