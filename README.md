@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Charles</h1>
-<h3 align="center">I'm a 4th-year student in Data & AI Engineering.</h3>
+<h3 align="center">I'm a 4th-year student in Data & AI Engineering</h3>
 
 <br/>
 <br/>
