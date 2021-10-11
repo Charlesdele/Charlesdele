@@ -1,6 +1,4 @@
-### Hi 
-
-<a href="#"><img width="100%" height="auto" src="https://cdn.dribbble.com/users/515528/screenshots/3395241/media/37e0850f91006ea9358c5d51d29ec9db.gif" height="175px"/></a>
+<a href="#"><img width="200px" height="auto" src="https://cdn.dribbble.com/users/515528/screenshots/3395241/media/37e0850f91006ea9358c5d51d29ec9db.gif" height="175px"/></a>
 
 <h1 align="center">Hi there 👋 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Charles</h1>
 
