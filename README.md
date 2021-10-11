@@ -1,6 +1,12 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Charles</h1>
 
-<a align="center"><img width="600px" height="auto" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/343cb53c87e313181d99248d3071bc77.gif" height="300px"/></a>
+
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Charles</h1>
+<h3 align="center">I'm a 4th-year student in Data & AI Engineering.</h3>
+
+<br/>
+<br/>
+
+<p align="center"><img width="300px" height="auto" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/343cb53c87e313181d99248d3071bc77.gif" height="300px"/></p>
 
 <br/>
 <br/>
@@ -27,6 +33,9 @@
 <a href = "https://www.instagram.com/charles_dlmz/?hl=fr"><img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png"/></a>
 
 </p>
+
+<br/>
+<br/>
 
 ## 🚀 Languages and Tools:
 
