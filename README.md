@@ -1,6 +1,6 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Charles</h1>
 
-<a align="center" href="#"><img width="600px" height="auto" src="https://cdn.dribbble.com/users/515528/screenshots/3395241/media/37e0850f91006ea9358c5d51d29ec9db.gif" height="175px"/></a>
+<a align="center"><img width="600px" height="auto" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/343cb53c87e313181d99248d3071bc77.gif" height="300px"/></a>
 
 <br/>
 <br/>
@@ -17,6 +17,16 @@
 
 <br/>
 <br/>
+
+## 📫 Connect with me
+
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/charles-delemazure-341608123/"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/></a>
+<a href = "https://www.facebook.com/charles.delemazure.3/"><img src="https://img.icons8.com/ios-filled/48/000000/facebook--v1.png"/></a>
+<a href = "https://www.instagram.com/charles_dlmz/?hl=fr"><img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png"/></a>
+
+</p>
 
 ## 🚀 Languages and Tools:
 
@@ -38,17 +48,10 @@
 
 ## 📊 My Github Stats
 
-   <img alt="Charlesdele's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Charlesdele&theme=black-ice" /></a>
-  <img alt="Charlesdele's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charlesdele&theme=black-ice" /></a>
+   <img alt="Charlesdele's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Charlesdele&theme=vue" /></a>
+  <img alt="Charlesdele's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charlesdele&theme=vue-dark&hide_border=True" /></a>
 
 <br/>
 <br/>
 
-## Connect with me:
-<p align="left">
 
-<a href = "https://www.linkedin.com/in/charles-delemazure-341608123/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.facebook.com/charles.delemazure.3/"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
-<a href = "https://www.instagram.com/charles_dlmz/?hl=fr"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
-</p>
