@@ -15,7 +15,7 @@
 
 - 📚 I’m currently studying **Design attern & Software development, Machine Learning, DIA Bootsrap, Advanced Database management and Python for Data Analysis.**
 
-- 👨‍💻 I’m looking for an **internship** of 4 months as a **data scientist**
+- 👨‍💻 I’m looking for an **internship** of 4 months as a **data scientist** starting april 4th
 
 - 📫 How to reach me **charles.delemazure@gmail.com**
 
@@ -59,7 +59,7 @@
 ## 📊 My Github Stats
 
 <img alt="Charlesdele's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Charlesdele&theme=vue" /></a>
-<img alt="Charlesdele's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charlesdele&theme=vue-dark&hide_border=True" /></a>
+<img alt="Charlesdele's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charlesdeletheme=vue-dark&hide_border=True" /></a>
 
 <br/>
 <br/>
