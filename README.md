@@ -59,7 +59,7 @@
 ## 📊 My Github Stats
 
 <img alt="Charlesdele's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Charlesdele&theme=vue" /></a>
-<img alt="Charlesdele's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charlesdeletheme=vue-dark&hide_border=True" /></a>
+<img alt="Charlesdele's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charlesdele&theme=vue-dark&hide_border=True" /></a>
 
 <br/>
 <br/>
