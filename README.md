@@ -13,7 +13,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 📚 This semester i'm am learning **Design attern & Software development, Machine Learning, DIA Bootsrap, Advanced Database management and Python for Data Analysis.**
+- 📚 This semester i am learning **Design pattern & Software development, Machine Learning, DIA Bootsrap, Advanced Database management and Python for Data Analysis.**
 
 - 👨‍💻 I’m looking for an **internship** of 4 months as a **data scientist** starting april 4th 2022
 
