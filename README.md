@@ -13,6 +13,8 @@
 
 ## 🙋‍♂️ About Me
 
+- 🖼️ I’m currently working with *Art Trope Gallery* to create an innovative model combining **Art and IA**.
+
 - 📚 This semester i am learning **Design pattern & Software development, Machine Learning, DIA Bootsrap, Advanced Database management and Python for Data Analysis.**
 
 - 👨‍💻 I’m looking for an **internship** of 4 months as a **data scientist** starting april 4th 2022
@@ -29,22 +31,24 @@
 **Programming Languages**
 
 <p align="left"> 
-    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
-    <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-    <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-    <img src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-r-data-science-becris-flat-becris.png"/>  
+    <img title="C#" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
+    <img title="Python" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+    <img title="R" src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-r-data-science-becris-flat-becris.png"/>  
+    <img title="SQL" src="https://img.icons8.com/nolan/64/sql.png"/>
 </p>
 
 **Tools**
 
 <p align="left"> 
-    <img src="https://img.icons8.com/fluency/48/000000/visual-studio-2019.png"/>
-    <img src="https://img.icons8.com/fluency/48/000000/matlab.png"/>
-    <img src="https://img.icons8.com/color/48/000000/solidworks.png"/>    
-    <img src="https://img.icons8.com/fluency/48/000000/microsoft-office-2019.png"/>
-    <img src="https://img.icons8.com/fluency/48/000000/spyder-ide.png"/>
-    <img src="https://img.icons8.com/color/48/000000/oracle-logo.png"/>
-    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+    <img title="Visual Studio" src="https://img.icons8.com/fluency/48/000000/visual-studio-2019.png"/>
+    <img title="Matlab" src="https://img.icons8.com/fluency/48/000000/matlab.png"/>
+    <img title="SolidWorks" src="https://img.icons8.com/color/48/000000/solidworks.png"/>    
+    <img title="Pack office" src="https://img.icons8.com/fluency/48/000000/microsoft-office-2019.png"/>
+    <img title="Spyder" src="https://img.icons8.com/fluency/48/000000/spyder-ide.png"/>
+    <img title="Oracle" src="https://github.com/Nibleash/Nibleash/blob/master/images_logo/oracle.png" height=60/>
+    <img title="MySQL" src="https://img.icons8.com/color/48/000000/mysql-logo.png" height=60/>
+    <img title="Jupyter & Google Colab Notebook" src="https://github.com/Nibleash/Nibleash/blob/master/images_logo/jupyter_colab.png" height=60/>
+    <img title="Anaconda" src="https://user-images.githubusercontent.com/63778269/137875440-f3f2e319-32f5-4cf9-ada6-6255da02ce86.png" height=60/>
 </p>
 
 <br/>
@@ -54,6 +58,12 @@
 
 <img alt="Charlesdele's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Charlesdele&theme=vue" /></a>
 <img alt="Charlesdele's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charlesdele&theme=vue-dark&hide_border=True" /></a>
+
+<p align="left"> 
+  Visitors Count<br>
+  <img src="https://profile-counter.glitch.me/Charlesdele/count.svg" />
+</p>
+
 
 <br/>
 <br/>
@@ -66,3 +76,5 @@
 <a href="mailto:charles.delemazure@gmail.com?Subject=Github%20%3A%20"><img src="https://img.icons8.com/ios-filled/50/000000/new-post.png"/></a>
 
 </p>
+
+
