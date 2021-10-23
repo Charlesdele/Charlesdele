@@ -17,7 +17,7 @@
 
 - 📚 This semester i am learning **Design pattern & Software development, Machine Learning, DIA Bootsrap, Advanced Database management and Python for Data Analysis.**
 
-- 👨‍💻 I’m looking for an **internship** of 4 months as a **data scientist** starting april 4th 2022
+- 👨‍💻 I’m looking for an **internship** of 4 months as a **data scientist / data engineer** starting april 4th 2022
 
 - 📫 You can reach me on **charles.delemazure@gmail.com**
 
