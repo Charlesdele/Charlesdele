@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Charles</h1>
-<h3 align="center">I'm a 4th-year student in Data & AI Engineering at ESILV</h3>
+<h3 align="center">I'm a 5th-year student at Leonard de Vinci Graduate School of Engineering (ESILV) & UCLA in Data Science and AI</h3>
 
 <br/>
 <br/>
@@ -13,11 +13,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🖼️ I’m currently working with *Art Trope Gallery* to create an innovative model combining **Art and IA**.
+- 🖼️ I worked with *Art Trope Gallery* to create an innovative model combining **Art and IA**.
 
-- 📚 This semester i am learning **Web Application Architectures, Neural Networks & Deep Learning, Advanced topics in NoSql Database, Web datamining & semantics and Chatbot & recommendation systems.**
+- 🖊️ My last internship was at *Accuracy* where I was performing **advanced mapping** using interactive maps and correlation matrices to deliver **location intelligence** and site selection with machine learning.
 
-- 👨‍💻 I’m looking for an **internship** of 4 months as a **data scientist** starting april 4th 2022
+- 📚 This year i am learning and extending my knowledge in **Machine Learning, Exploratory Data Analysis and Visualization, Big Data Management, Cybersecurity, Network & Operating System, Information Systems Infrastructure Security Management, and Architecting Cloud Solutions Using AWS.**
+
+- 👨‍💻 I’m looking for an **internship** of 6 months - 1 year as a **Data Scientist/Data Analyst** from September 2023
 
 - 📫 You can reach me on **charles.delemazure@gmail.com**
 
