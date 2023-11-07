@@ -19,7 +19,7 @@
 
 - 📚 This year i am learning and extending my knowledge in **Machine Learning, Exploratory Data Analysis and Visualization, Big Data Management, Cybersecurity, Network & Operating System, Information Systems Infrastructure Security Management, and Architecting Cloud Solutions Using AWS.**
 
-- 👨‍💻 I’m looking for an **internship** of 6 months - 1 year as a **Data Scientist/Data Analyst** from September 2023
+- 👨‍💻 I’m looking for an **internship** of 6 months - 1 year as a **Data Scientist/Data Analyst** from January 2024
 
 - 📫 You can reach me on **charles.delemazure@gmail.com**
 
